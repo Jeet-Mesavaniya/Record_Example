@@ -1,0 +1,14 @@
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.AssemblyInfoInputs.cache
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.AssemblyInfo.cs
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.csproj.CoreCompileInputs.cache
+E:\All project\Record_Example\bin\Debug\net8.0\Record_Example.exe
+E:\All project\Record_Example\bin\Debug\net8.0\Record_Example.deps.json
+E:\All project\Record_Example\bin\Debug\net8.0\Record_Example.runtimeconfig.json
+E:\All project\Record_Example\bin\Debug\net8.0\Record_Example.dll
+E:\All project\Record_Example\bin\Debug\net8.0\Record_Example.pdb
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.dll
+E:\All project\Record_Example\obj\Debug\net8.0\refint\Record_Example.dll
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.pdb
+E:\All project\Record_Example\obj\Debug\net8.0\Record_Example.genruntimeconfig.cache
+E:\All project\Record_Example\obj\Debug\net8.0\ref\Record_Example.dll
